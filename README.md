@@ -6,13 +6,13 @@ Hello User, I have started my journey on Kaggle and will be actively updating th
 'Let's learn together' :metal: 
 
 
-#### 1. Bitcoin Price Prediction
+## 1. Bitcoin Price Prediction
 This notebook includes historical bitcoin market data at 1-min intervals for Data mining. We will perform Exploratory Data Analysis, Feature Engineering, Feature Selection, Model building, Model selection and will predict bitcoin price using Stochastic, Machine Learning and Deep Learning models.
 
-## Quick Snapshot of Models used -
+#### Quick Snapshot of Models used -
 - ARIMA
 - Facebook Prophet
 - XGBoost
 - LSTM
 
-###### [Kaggle Notebook](https://www.kaggle.com/akashmathur2212/bitcoin-price-prediction-arima-xgboost-lstm-fbprop)
+###### Link to [Kaggle Notebook](https://www.kaggle.com/akashmathur2212/bitcoin-price-prediction-arima-xgboost-lstm-fbprop)
