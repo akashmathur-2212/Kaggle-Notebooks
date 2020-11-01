@@ -17,3 +17,10 @@ This notebook includes historical bitcoin market data at 1-min intervals for Dat
 - LSTM
 
 ###### Link to [Kaggle Notebook](https://www.kaggle.com/akashmathur2212/bitcoin-price-prediction-arima-xgboost-lstm-fbprop)
+
+## 2. M5 Forecasting
+In this challenge, we have to predict Walmart sales for future 28 days based on heirarchical sales in the states of California, Texas, and Wisconsin. “Hierarchical” means that data can be aggregated on different levels: item level, department level, product category level, and state level. In addition, we are also given corresponding data on prices, promotions, and holidays which can be merged with sales data to draw insights.
+
+In this notebook, I will provide comprehensive Exploratory Data Analysis on the entire dataset. I shall be using Plotly(mostly) and Matplotlib. 
+
+###### Link to [Kaggle Notebook](https://www.kaggle.com/akashmathur2212/comprehensive-data-visualization-m5-eda)
