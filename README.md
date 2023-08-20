@@ -1,7 +1,7 @@
 # Kaggle-Notebooks
 
 ## Introduction
-Hello User, I have started my journey on Kaggle and will be actively updating this repository. These notebooks aim to cover various lifecyle of Data Science projects and will help you  bulid intelligent models. I have explained codes and their relevance using Markdown. 
+Hello User, I have resumed my journey on Kaggle and will be actively updating this repository. These notebooks aim to cover various lifecyle of Data Science projects and will help you  bulid intelligent models. I have explained codes and their relevance using Markdown. 
 
 All source code are available both on GitHub and Kaggle. Please use below Links to explore further. Let's learn together :metal: 
 
